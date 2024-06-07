@@ -1,0 +1,1 @@
+The Horde webmail application has been removed in cPanel & WHM version 108. All Horde email, contacts, and calendars will be automatically migrated to Roundcube.
